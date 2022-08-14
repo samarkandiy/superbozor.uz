@@ -13,7 +13,7 @@ export default function Home() {
     <div>
       <Head>
         <title>O'zbekistonda Birinchi Internet Bozor Superbozor.uz </title>
-        <meta name="description" content="" />
+        <meta name="description" content="O'zbekistonda Birinchi Onlayn Bozor" />
          <style>{`
         .lottie {
           background: transparent;
